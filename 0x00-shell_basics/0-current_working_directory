@@ -1,2 +1,2 @@
-path=’readlink -f “${BASH_SOURCE:-$0}”’
-echo $path
+#!/bin/bash
+pwd
